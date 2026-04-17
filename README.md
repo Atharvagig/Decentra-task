@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/edc91bb9-2d4d-4880-8ba7-0ec7b4925ee2
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+DecentraTask — The Decentralized Task Protocol
+DecentraTask is a production-grade decentralized task management application designed for the next generation of Web3 productivity. It bridges the gap between traditional task management and blockchain security protocols.
+Core Features:
+Cryptographic Authentication: Secure, passwordless login using Ethereum-compatible wallets (MetaMask). Users sign a unique cryptographic message to prove ownership of their account without exposing private keys.
+Immutable On-Chain Simulation: Every task interaction is treated as a protocol event. Tasks are stored in a simulated blockchain registry, ensuring data integrity and ownership auditing.
+High-Fidelity Cyber-Dash UI: A futuristic user interface featuring "Glassmorphism" panels, neon-cyan aesthetic accents, and smooth micro-animations powered by motion/react.
+Protocol Governance: Implements a community voting system where every authenticated user can "upvote" tasks, helping to prioritize the most critical infrastructure needs.
+Production-Ready DevOps: Fully containerized with a multi-stage Docker setup and Nginx optimization, ready for deployment to any cloud provider or bare-metal server.
+Technical Stack:
+Frontend: React 19 (TypeScript), Vite, Tailwind CSS.
+Animation: Motion (formerly Framer Motion) for fluid UI transitions.
+Web3 SDK: Ethers.js v6 for wallet interaction and cryptographic signing.
+Icons: Lucide-React for consistent, low-latency iconography.
+Containerization: Docker & Docker Compose (Nginx Build).
+Project Philosophy:
+DecentraTask is built with "Architectural Honesty"—meaning it doesn't just look like a Web3 app; it follows the real-world patterns of decentralized development. It's an ideal boilerplate for anyone building an authenticated dashboard that requires high security and performance.
