@@ -1,0 +1,5 @@
+{
+  "name": "DecentraTask - The Decentralized Task Protocol",
+  "description": "A high-performance decentralized task management application featuring cryptographic wallet authentication, an immutable on-chain registry simulation, and a futuristic cyber-dash UI. Fully containerized with Docker.",
+  "requestFramePermissions": []
+}
