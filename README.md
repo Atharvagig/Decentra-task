@@ -14,3 +14,4 @@ Icons: Lucide-React for consistent, low-latency iconography.
 Containerization: Docker & Docker Compose (Nginx Build).
 Project Philosophy:
 DecentraTask is built with "Architectural Honesty"—meaning it doesn't just look like a Web3 app; it follows the real-world patterns of decentralized development. It's an ideal boilerplate for anyone building an authenticated dashboard that requires high security and performance.
+IT CAN BE TRIED -   https://decentra-task.vercel.app/
